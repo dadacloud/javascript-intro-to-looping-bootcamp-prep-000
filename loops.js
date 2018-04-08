@@ -2,12 +2,12 @@
   
 
 
-//function forLoop(array){
-  for(var i = 1; i < 26; i++){
+function forLoop(array){
+  for(var i = 0; i < 25; i++){
   console.log("I am" + i + "strange loops.");
   }
   //return array;
-
+}
 
 function whileLoop(number){
   for(let number = number; number--;){
