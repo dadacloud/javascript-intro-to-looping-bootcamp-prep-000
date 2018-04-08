@@ -3,10 +3,10 @@
 
 
 function forLoop(array){
-  for(var i = 0; i < 25; i++){
-    return console.log(`I am ${i} strange loops.`);
+  for(var i = 0; i < 26; i++){
+  console.log(`I am ${i} strange loops.`);
   }
-  //return array;
+  return array;
 }
 
 function whileLoop(number){
