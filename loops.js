@@ -24,11 +24,6 @@ function whileLoop(n){
   
 
 function doWhileLoop(array){
-  function maybeTrue() === false{
-    return 
-    
-  }
-  array.length > 0 && maybeTrue()
   
   return array;
 }
