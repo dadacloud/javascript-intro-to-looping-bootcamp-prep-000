@@ -16,13 +16,12 @@ function forLoop(array){
 }
 
 function whileLoop(number){
-  for(let number = number; number--;){
-    console.log(number);
+  while(number >0){
+    console.log(--number);
   }
-  if (number === 0){
-    return `done`;
-  }
+  return `done`;
 }
+  
 
 function doWhileLoop(array){
   function maybeTrue() === false{
