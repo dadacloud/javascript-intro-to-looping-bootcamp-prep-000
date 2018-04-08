@@ -1,6 +1,6 @@
 //for (var i = 1; i < 100; i ++){
   
-const array = [];
+//const array = [];
 
 function forLoop(array){
   for(var i = 0; i < 25; i++){
