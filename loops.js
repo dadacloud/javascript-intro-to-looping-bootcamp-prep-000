@@ -3,8 +3,8 @@
 
 
 function forLoop(array){
-  for(var i = 0; i < 26; i++){
-  console.log(`I am ${i} strange loops.`);
+  for(var i = 1; i < 26; i++){
+  console.log("I am" + i + "strange loops.");
   }
   return array;
 }
